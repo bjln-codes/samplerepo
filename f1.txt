@@ -1,2 +1,4 @@
+main f1
 first line in f1.txt
 second line in f1.txt
+
