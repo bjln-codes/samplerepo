@@ -1,2 +1,0 @@
-IRCTC Booking Code - Version 1
-Tatkal Booking Feature - Added by Hari
